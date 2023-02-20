@@ -1,0 +1,11 @@
+input = "Patent about WATER." 
+The present disclosure relates to an organic chemical vapor cell structure which has an amorphous semiconductor structure having a surface area of a wavelength at least a wavelength higher than 1 micron, and to m
+ethods for the production and/or maintenance of a WATER electrode, a method of producing a liquid water cell compris
+ing a step of heating a cell and a substrate to a thermal temperature of at least about 50 degrees C., the heat tran
+sfer of at least one wafer or substrate and a step of cooling the substrate to a temperature of at least about 75 de
+grees C., in the reaction of a first compound or a second compound in which the reaction is initiated with a first c
+ompound and a second compound and an organic solvent. The invention also relates to an organic chemical vapor cell s
+tructure which has a wettability index which is lower than a threshold threshold temperature of an amorphous semicon
+ductor cell comprising a step of heating a cell and a substrate to a thermal temperature of at least about 50 degree
+s C., the heat transfer of at least one wafer or substrate and a step of cooling the substrate to a temperature of a
+t least about 75 degrees C. The cell includes a first compound or a second compound and a solvent.
