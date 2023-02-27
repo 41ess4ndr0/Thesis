@@ -1,4 +1,5 @@
 The folder "structure" is most important. It contains:
+
     * 1) "bin for pipeline"                   : contains the bin used for the xi_real estimation
     * 2) "codes"                              : contains all the python files
     * 3) "hyperparameters"                    : contains all the results for the hyperparametes
