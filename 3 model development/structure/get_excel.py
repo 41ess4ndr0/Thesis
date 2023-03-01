@@ -1,3 +1,6 @@
+"""This function help in the conversion from csv to xlsx. Due to the impossible reading into italian excel for 
+the different decimal sign (the comma)','    """
+
 import pandas as pd
 PATH=r"C:\Users\laudi\OneDrive\Desktop\Tesi_workspace\repository\3 preparation\python training\synthetic patent test 2020"
 get = pd.read_csv(PATH+r"\test_2020_generation-2023-02-16-h17-m00.csv")
